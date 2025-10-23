@@ -1,4 +1,4 @@
-# Persian Beamer template (XeLaTeX)
+# Persian Beamer Template (XeLaTeX)
 
 A small, clean Beamer template for Persian (right-to-left) presentations using **XeLaTeX** and `xepersian`.
 It provides a modern color palette, Persian title fonts, and example frames (theorem, example, proof, figures).
